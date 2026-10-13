@@ -132,4 +132,3 @@ The tool only finds stocks that have some unusual behavior in their price and vo
 A product by [Tradytics](https://www.tradytics.com/)
 
 Copyright (c) 2020-present, Tradytics.com
-
